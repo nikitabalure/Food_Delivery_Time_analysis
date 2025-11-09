@@ -68,8 +68,8 @@ This repository contains a Jupyter notebook for **delivery time analysis and pre
 
 ## License
 
-Specify your project’s license here (e.g., MIT).
+NA
 
 ## Author
 
-Add your name and contact information here.
+Nikita 
